@@ -1,0 +1,18 @@
+
+#aa{
+	width:40%;
+	height:200px;
+	display:inline-block;
+    margin:5% 0;	
+}
+.about div:nth-child(1){
+	
+	width:100%;
+}
+.bb{
+	width:80%;
+}
+.input1{
+	width:60.5%;
+	margin:1% 0;
+}
